@@ -51,9 +51,9 @@ python main.py download
 
 | 字段 | 值 |
 |------|-----|
-| 程序/脚本 | `...\python.exe`（ Python 完整路径） |
+| 程序/脚本 | `python`（或 Python 完整路径） |
 | 参数 | `main.py download` |
-| 起始于 | `...\huanghe-water-tools` （完整路径，E:\DATA\huanghe-water-tools）|
+| 起始于 | 项目根目录（如 `D:\huanghe-water-tools`）|
 
 > 如果系统提示找不到 `python`，在 cmd 中运行 `where python` 获取完整路径填入"程序/脚本"栏。
 
