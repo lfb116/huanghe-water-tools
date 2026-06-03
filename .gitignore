@@ -12,7 +12,8 @@ data/raw/**
 data/processed/**
 data/offline/**
 
-# 输出目录
+# 日志 / 输出
+logs/**
 output/**
 
 # IDE / OS
