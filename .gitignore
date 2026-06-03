@@ -5,12 +5,8 @@ __pycache__/
 dist/
 build/
 
-# 数据文件（不版本控制）
-*.xlsx
-*.xls
+# 原始日数据（每天新增，不跟踪）
 data/raw/**
-data/processed/**
-data/offline/**
 
 # 日志 / 输出
 logs/**
