@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 数据文件（不版本控制）
+*.xlsx
+*.xls
+data/raw/**
+data/processed/**
+data/offline/**
+
+# 输出目录
+output/**
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 环境
+venv/
+.venv/
+*.env
